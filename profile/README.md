@@ -1,9 +1,3 @@
-Based on the information from the [Sandy Hill Group website](https://sandyhillgroup.com/), here is a professional and concise `README.md` template for the company's GitHub profile.
-
-It highlights the firm's unique blend of technical expertise and strategic capital.
-
----
-
 # Sandy Hill Group
 
 **Strategic Capital & Executive Leadership**
